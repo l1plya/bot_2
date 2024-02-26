@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6763526973:AAHBTvLvBnPcCvYiB21KFLBDbOLXVw9ZIoo')
+bot = telebot.TeleBot('XXX')
 
 comics = {
     'Комикс 1': ['page1_1.jpg', 'page2_1.jpg', 'page3_1.jpg', 'page4_1.jpg', 'page5_1.jpg'],
